@@ -1,7 +1,7 @@
 # Coder-DS
 
-Repositorio de la cursada de Data Science en Coderhouse
+## Repositorio de la cursada de Data Science en Coderhouse
 
-Alumnno: Juan Pablo Veliz
+Alumno: Juan Pablo Veliz
 
 Comisión: 32705
